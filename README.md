@@ -22,3 +22,7 @@ v1.0
 ## Authors
 
 Jaspreet Singh
+
+## Connect with me?
+* LinkedIn -https://www.linkedin.com/in/jaspreetsidhu13/
+* GitHub -https://github.com/jaspreetsidhu3
